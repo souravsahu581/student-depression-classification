@@ -20,9 +20,9 @@ Numerical inputs are standardized; categorical inputs are one-hot encoded. The p
 
 ## C. GitHub repository link
 
-**Replace this with your repository URL:** `https://github.com/YOUR_USERNAME/YOUR_REPOSITORY`
+**GitHub Repository:** [student-depression-classification](https://github.com/souravsahu581/student-depression-classification)
 
-**Live Streamlit app:** `https://YOUR_APP_NAME.streamlit.app/` (replace after deployment).
+**Live Streamlit Application:** [Launch the interactive app](https://souravsahu581-student-depression-classification-app-hqm52n.streamlit.app/)
 
 ## D. Models used and evaluation metrics
 
@@ -66,7 +66,7 @@ Student-Depression-Classification/
 │   ├── gaussian_naive_bayes.joblib
 │   ├── support_vector_machine.joblib
 │   └── feature_info.joblib
-└── outputs/
+└── Outputs/
     └── evaluation_metrics.csv
 ```
 
@@ -95,7 +95,7 @@ The app only calls `predict` / `predict_proba` on saved models. **It never retra
 2. Go to [Streamlit Community Cloud](https://share.streamlit.io/), sign in with GitHub, and create a new app.
 3. Select the repository, branch `main`, and entry point `app.py`.
 4. Deploy and test the app with `test_data.csv`.
-5. Update the repository/app URLs in this README and include this README's content in the assignment submission PDF.
+5. Include this README's content in the assignment submission PDF.
 
 ## H. Submission reminders
 
