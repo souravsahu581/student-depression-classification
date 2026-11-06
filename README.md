@@ -1,7 +1,5 @@
 # Student Depression Classification
 
-BITS Pilani WILP · M.Tech (AI & ML) · Machine Learning Assignment 2
-
 ## A. Problem statement
 
 The aim is to compare five supervised classification algorithms on the same student-depression dataset. The project predicts the binary `Depression` target (`Yes` or `No`) from twelve input features and provides a Streamlit application for evaluating saved models on labeled test data. The app is an educational demonstration, not a clinical diagnostic tool.
@@ -96,7 +94,3 @@ The app only calls `predict` / `predict_proba` on saved models. **It never retra
 3. Select the repository, branch `main`, and entry point `app.py`.
 4. Deploy and test the app with `test_data.csv`.
 5. Include this README's content in the assignment submission PDF.
-
-## H. Submission reminders
-
-Your assignment PDF additionally asks for (1) a repository URL, (2) a deployed app URL, (3) one screenshot showing execution in BITS Virtual Lab, and (4) the README content. Perform the project work in the BITS Virtual Lab and keep your own commit history. Adapt and understand the code before submission; the assignment permits AI for learning support, not direct copy-paste submissions.
