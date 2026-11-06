@@ -8,7 +8,7 @@ The aim is to compare five supervised classification algorithms on the same stud
 
 ## B. Dataset description
 
-- **Dataset:** `Student_Depression_Dataset.csv` (source citation/URL: **add the original public dataset link here**).
+- **Dataset:** `Student_Depression_Dataset.csv` (source citation/URL: [**add the original public dataset link here**](https://www.kaggle.com/datasets/mkhoirulmustaqim/student-depression-detection-dataset)).
 - **Observations:** 4,464.
 - **Input features:** 12.
 - **Target:** `Depression` (classes `No` and `Yes`).
